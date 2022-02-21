@@ -1,0 +1,9 @@
+#Config of WorkPlace
+
+/.idea/
+
+.classpath
+.project
+.settings/
+
+*.iml
