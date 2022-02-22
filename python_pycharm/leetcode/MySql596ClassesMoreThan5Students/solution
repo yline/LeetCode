@@ -1,0 +1,7 @@
+# Write your MySQL query statement below
+# 这种形式，不熟悉
+
+SELECT class
+FROM courses
+GROUP BY class
+HAVING COUNT(DISTINCT student) >= 5 ;
